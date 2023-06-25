@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'ATHEWETRIAL Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('ATHEWETRIAL Regular'), url('ATHEWETRIAL-BF649433d70dc6a.woff') format('woff');
+    }
+
+    h1{
+        font-family: 'ATHEWETRIAL Regular';
+        font-weight: 600;
+        color:rgb(25, 80, 107)
+    }
